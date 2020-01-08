@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["test"],{e605:function(n,a,e){"use strict";e.r(a);var s=function(){var n=this,a=n.$createElement,e=n._self._c||a;return e("div",{staticClass:"Canvas"},[e("Canvas3D")],1)},t=[],c=e("38e1"),l={name:"canvas",components:{Canvas3D:c["a"]}},o=l,u=e("2877"),i=Object(u["a"])(o,s,t,!1,null,null,null);a["default"]=i.exports}}]);
+//# sourceMappingURL=test.2c29b99b.js.map
